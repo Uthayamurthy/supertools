@@ -1,6 +1,6 @@
 {
-  "name": "omni-tools",
-  "description": "This project offers a variety of online tools to help with everyday tasks, \nall available for free and open for community contributions",
+  "name": "supertools",
+  "description": "A powerful suite of free online tools to help with everyday tasks — CSV, JSON, images, PDFs, video, audio, and more.",
   "version": "0.1.0",
   "private": true,
   "author": {
