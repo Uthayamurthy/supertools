@@ -112,12 +112,6 @@ const Navbar: React.FC<NavbarProps> = ({
       }
     />,
     <Icon
-      onClick={() => window.open('https://discord.gg/SDbbn3hT4b', '_blank')}
-      style={{ cursor: 'pointer' }}
-      fontSize={30}
-      icon={'ic:baseline-discord'}
-    />,
-    <Icon
       onClick={() => window.open('https://github.com/Uthayamurthy/supertools', '_blank')}
       style={{ cursor: 'pointer' }}
       fontSize={30}

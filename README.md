@@ -1,15 +1,10 @@
 # SuperTools
 
 <div align="center">
-        <img src="src/assets/logo.png" width="220" />
-        <br /><br />
-<a href="https://discord.gg/SDbbn3hT4b">
-          <img src="https://img.shields.io/discord/1342971141823664179?label=Discord&style=for-the-badge" />
-        </a>
-        <br /><br />
+  <img src="src/assets/logo.png" width="220" />
 </div>
 
-Welcome to **SuperTools**, a powerful suite of free online tools to simplify everyday tasks. Whether you're
+**SuperTools** is a powerful suite of free online tools to simplify everyday tasks. Whether you're
 working with code, images, videos, PDFs, or data — SuperTools has you covered. All processing
 happens entirely in your browser: nothing ever leaves your device.
 
@@ -19,7 +14,6 @@ happens entirely in your browser: nothing ever leaves your device.
 
 - [Features](#features)
 - [Self-host](#self-hostrun)
-- [Contribute](#contribute)
 - [License](#license)
 
 ## Features
@@ -114,12 +108,6 @@ npm run script:create:tool my-tool-name folder1/folder2   # for nested tools
 npm run test        # unit tests
 npm run test:e2e    # end-to-end tests
 ```
-
-## 🤝 Contribute
-
-This is a React + TypeScript + Material UI project. Icons are from [Iconify](https://icon-sets.iconify.design).
-
-Translation files are in `public/locales`. For translations, you can also reach out via the [Discord server](https://discord.gg/SDbbn3hT4b).
 
 ## License
 
