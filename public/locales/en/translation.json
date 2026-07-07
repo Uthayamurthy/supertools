@@ -243,7 +243,13 @@
   "toolMultipleInput": {
     "inputTitle": "Input {{type}}",
     "noFilesSelected": "No files selected",
-    "deleteFile": "Delete file"
+    "deleteFile": "Delete file",
+    "orderPreviewTitle": "Merge order",
+    "selectedFilesCount": "Selected files: {{count}}",
+    "filePosition": "Position {{position}}",
+    "filePreview": "Preview of {{fileName}}",
+    "moveUp": "Move up",
+    "moveDown": "Move down"
   },
   "toolOptions": {
     "title": "Tool options"

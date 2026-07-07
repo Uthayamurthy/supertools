@@ -231,7 +231,13 @@
   "toolMultipleInput": {
     "inputTitle": "{{type}} इनपुट करें",
     "noFilesSelected": "कोई फ़ाइल नहीं चुनी गई",
-    "deleteFile": "फ़ाइल हटाएं"
+    "deleteFile": "फ़ाइल हटाएं",
+    "orderPreviewTitle": "मर्ज क्रम",
+    "selectedFilesCount": "चुनी गई फ़ाइलें: {{count}}",
+    "filePosition": "स्थिति {{position}}",
+    "filePreview": "{{fileName}} का पूर्वावलोकन",
+    "moveUp": "ऊपर ले जाएं",
+    "moveDown": "नीचे ले जाएं"
   },
   "toolOptions": {
     "title": "टूल विकल्प"

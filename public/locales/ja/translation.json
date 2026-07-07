@@ -231,7 +231,13 @@
   "toolMultipleInput": {
     "inputTitle": "{{type}}を入力",
     "noFilesSelected": "ファイルが選択されていません",
-    "deleteFile": "ファイルを削除"
+    "deleteFile": "ファイルを削除",
+    "orderPreviewTitle": "結合順序",
+    "selectedFilesCount": "選択済みファイル: {{count}}",
+    "filePosition": "位置 {{position}}",
+    "filePreview": "{{fileName}} のプレビュー",
+    "moveUp": "上に移動",
+    "moveDown": "下に移動"
   },
   "toolOptions": {
     "title": "ツールオプション"

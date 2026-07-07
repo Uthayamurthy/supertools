@@ -231,7 +231,13 @@
   "toolMultipleInput": {
     "inputTitle": "Entrée {{type}}",
     "noFilesSelected": "Aucun fichier sélectionné",
-    "deleteFile": "Supprimer le fichier"
+    "deleteFile": "Supprimer le fichier",
+    "orderPreviewTitle": "Ordre de fusion",
+    "selectedFilesCount": "Fichiers sélectionnés : {{count}}",
+    "filePosition": "Position {{position}}",
+    "filePreview": "Aperçu de {{fileName}}",
+    "moveUp": "Déplacer vers le haut",
+    "moveDown": "Déplacer vers le bas"
   },
   "toolOptions": {
     "title": "Options d'outils"

@@ -231,7 +231,13 @@
   "toolMultipleInput": {
     "inputTitle": "Ввод {{type}}",
     "noFilesSelected": "Файлы не выбраны",
-    "deleteFile": "Удалить файл"
+    "deleteFile": "Удалить файл",
+    "orderPreviewTitle": "Порядок объединения",
+    "selectedFilesCount": "Выбрано файлов: {{count}}",
+    "filePosition": "Позиция {{position}}",
+    "filePreview": "Предпросмотр {{fileName}}",
+    "moveUp": "Переместить вверх",
+    "moveDown": "Переместить вниз"
   },
   "toolOptions": {
     "title": "Параметры инструмента"

@@ -231,7 +231,13 @@
   "toolMultipleInput": {
     "inputTitle": "Invoer {{type}}",
     "noFilesSelected": "Geen bestanden geselecteerd",
-    "deleteFile": "Bestand verwijderen"
+    "deleteFile": "Bestand verwijderen",
+    "orderPreviewTitle": "Samenvoegvolgorde",
+    "selectedFilesCount": "Geselecteerde bestanden: {{count}}",
+    "filePosition": "Positie {{position}}",
+    "filePreview": "Voorbeeld van {{fileName}}",
+    "moveUp": "Omhoog verplaatsen",
+    "moveDown": "Omlaag verplaatsen"
   },
   "toolOptions": {
     "title": "Gereedschapsopties"
